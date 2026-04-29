@@ -1,3 +1,6 @@
+//Gruppemedlemer: Tallak Lippe, Bertine Hol Meling, Helene Eidal og Runa Raastad
+//Claude og ChatGPT ble brukt under utviklingen av denne koden
+
 const int STEP_PIN   = 2;     // Driver motoren rundt
 const int DIR_PIN    = 3;     // Bestemmer retningen til motoren, LOW = fra motoren, HIGH = mot motoren
 const int EN_PIN     = 4;     // AV/PÅ-funskjon til motoren, LOW = på, HIGH = av
